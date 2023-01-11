@@ -1,0 +1,22 @@
+.main {
+        max-width: 1000px;
+        margin: 0 auto;
+}
+
+.partfolio > div {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.info {
+    max-width: 100%;
+}
+
+.name__info, .partfolio {
+    background-color: rgb(138, 115, 194);
+}
+
+.catalog {
+    font-size: 0px;
+    margin: 0 -2.5%;
+}

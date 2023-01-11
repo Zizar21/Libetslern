@@ -1,0 +1,14 @@
+@import "header.css";
+@import "main.css";
+@import "card.css";
+@import "footer.css";
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+
